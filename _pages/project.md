@@ -1,6 +1,6 @@
 ---
-layouy: archive
-permalink: /project-1/
+layout: archive
+permalink: /project/
 title: "My first Project"
 author_profile: true
 header:
