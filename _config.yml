@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Data Portfolio
+title : Data Science Portfolio
 tagline: Site Tagline
 author :
-  name : Carlos Andrade
-  email : carlos.andrade@acm.org
+  name : Sridhar N
+  email : sendtosdn@gmail.com
 #  github : username
 #  twitter : username
 #  feedburner : feedname
@@ -83,11 +83,11 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : carlos
+      short_name : Sridhar
     livefyre :
       site_id : 123
     intensedebate :
-      account : carlosviansi@gmail.com
+      account : sendtosdn@gmail.com
     facebook :
       appid : 123
       num_posts: 5
