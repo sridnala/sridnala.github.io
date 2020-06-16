@@ -1,6 +1,5 @@
 ---
 title: "Predicting Sales"
-date: 2020-06-15
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
