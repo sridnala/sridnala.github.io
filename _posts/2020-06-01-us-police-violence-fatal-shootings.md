@@ -2,7 +2,7 @@
 layout: post
 title: US Police Violence & Fatal Shootings
 subtitle: Data from a variety of sources to support objective analysis
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/4096.jpg
 tags: [shootings, police]
 ---
 
