@@ -14,8 +14,8 @@ author: Sridhar
 navbar-links:
   About Me: "aboutme"
   My Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Predicting Store Sales: "2020-06-01-predicting-store-sales"
+    - Loan Defaulters: "2020-06-01-loan-defaulters"
 
 # --- Logo --- #
 
