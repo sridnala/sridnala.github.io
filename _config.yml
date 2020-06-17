@@ -69,7 +69,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Sridhar Portfolio"
+url-pretty: "Sridhar's Portfolio"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -81,13 +81,13 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#415f85"
+navbar-col: "#B0C4DE"
 navbar-text-col: "#404040"
-navbar-border-col: "#415f85"
+navbar-border-col: "#B0C4DE"
 page-col: "#F0F8FF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#415f85"
+footer-col: "#B0C4DE"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
