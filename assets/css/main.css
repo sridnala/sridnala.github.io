@@ -15,7 +15,7 @@ body {
   font-size: 1.125rem;
   color: #404040;
   position: relative;
-  background-color: {{ site.page-col | default: "#61778b" }};
+  background-color: {{ site.page-col | default: "#F0F8FF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
@@ -645,7 +645,7 @@ footer .footer-custom-content {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
