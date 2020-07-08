@@ -2,7 +2,7 @@
 layout: post
 title: Predicting Store Sales
 subtitle: Historical markdown data to predict store sales
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/salesforcasting.jpg
 tags: [sales, retail]
 ---
 
