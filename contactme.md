@@ -14,11 +14,12 @@ subtitle:
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
           <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
+            <label for="exampleFormControlSelect1">Looking for Technologies</label>
             <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
+              <option>Python</option>
+              <option>R</option>
+              <option>Tableau</option>
+              <option>Power BI</option>
             </select>
           </div>
           <hr>          
