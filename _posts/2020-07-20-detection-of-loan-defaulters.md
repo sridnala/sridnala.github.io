@@ -2,7 +2,7 @@
 layout: post
 title: Loan Defaulters
 subtitle: Early Detection of Loan Defaulters    
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/loandefault.jpg
 tags: [loans, defaulters]
 ---
 
