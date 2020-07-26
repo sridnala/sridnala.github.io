@@ -15,10 +15,10 @@ navbar-links:
   About Me: "aboutme"
   My Projects:
     - Predicting Store Sales: "2020-07-01-predicting-store-sales"
-    - Loan Defaulters: "2020-06-01-loan-defaulters"
+    - Loan Defaulters: "2020-07-20-detection-of-loan-defaulters"
+    - Daily News for Stock Market Prediction: "2020-06-01-impact-of-news-on-stock-market"
     - US Police Violence & Fatal Shootings: "2020-06-01-us-police-violence-fatal-shootings"
     - Poverty Crime connection: "2020-06-01-poverty-crime-connection"
-    - Daily News for Stock Market Prediction: "2020-06-01-impact-of-news-on-stock-market"
     - Fake and real news: "2020-06-01-identify-fake-and-real-news"
     - Credit Card Fraud Detection: "2020-06-01-credit-card-fraud"
     - Coupon Redemption: "2020-06-01-coupon-redemption"
@@ -90,13 +90,13 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#B0C4DE"
+navbar-col: "#588da8"
 navbar-text-col: "#404040"
-navbar-border-col: "#B0C4DE"
+navbar-border-col: "#588da8"
 page-col: "#F0F8FF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#B0C4DE"
+footer-col: "#588da8"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
