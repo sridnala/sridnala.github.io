@@ -4,6 +4,10 @@ title: About me
 subtitle:
 ---
 
+<img src="/assets/img/path.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 I am Sridhar, Currently pursuing my Master in Data Science from Bellevue university.
 
 #### Technical Skills
