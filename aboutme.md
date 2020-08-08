@@ -6,12 +6,12 @@ subtitle:
 
 I am Sridhar, Currently pursuing my Master in Data Science from Bellevue university.
 
-####Technical Skills
+#### Technical Skills
 
 - Python
 - R
 - Tableau
 - PowerBI
 
-<a href="https://github.com/sridnala/profile">My Profile</a>
+<a href="https://github.com/sridnala/profile">Click here to see my resume</a>
 
