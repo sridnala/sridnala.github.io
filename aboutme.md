@@ -10,7 +10,7 @@ subtitle:
 
 <br>
 
-I am Sridhar, Currently pursuing my Master in Data Science from Bellevue university.
+I am Sridhar Nalajala, Currently pursuing my Master in Data Science from Bellevue university.
 
 #### Technical Skills
 
